@@ -15,3 +15,10 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 - `Funcionalidade 4` `Listas de Reprodução Personalizadas`: Da aos usuários a capacidade de criar listas de reprodução personalizadas com suas músicas favoritas. Também inclui listas de reprodução recomendadas com base nos gostos musicais deles.
 - `Funcionalidade 5` `Recomendações Inteligentes`: Utiliza algoritmos de recomendação para sugerir músicas e artistas com base no histórico de escuta do usuário.
 - `Funcionalidade 6` `Letras e Informações das Músicas`: Fornece letras de músicas e informações detalhadas sobre artistas, álbuns e faixas.
+
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Java 8``
+- ``InteliJ IDEA``
+- ``Paradigma de orientação a objetos``
