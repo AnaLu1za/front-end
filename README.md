@@ -19,6 +19,7 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java 8``
-- ``InteliJ IDEA``
-- ``Paradigma de orientação a objetos``
+- ``Css``
+- ``Html 5``
+- ``Chat GPT``
+  
