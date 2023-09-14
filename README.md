@@ -6,13 +6,15 @@ Projeto inicial pronto pego no site myTunes com o objetivo de realizar algumas a
 
 # Índice 
 * [Descrição](#Descrição-do-projeto)
-* [Funcionalidades](#Funcionalidades-do-projeto:hammer:)
-* [Técnicas e tecnologias utilizadas](#✔Técnicas-e-tecnologias-utilizadas✔️)
+* [Funcionalidades](#Funcionalidades-do-projeto)
+* [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
+* [Fontes Consultadas](#Fontes-Consultadas)
+* [Material de Referência](#Material-de-referência)
 
 ## Descrição do projeto 
 O site é um serviço de streaming pago que dá acesso a milhões de músicas sem anúncios. É possível ouvir músicas offline e baixar suas músicas favoritas com uma excelente qualidade de som. 
 
-## Funcionalidades do projeto:hammer: 
+## Funcionalidades do projeto
 - `Funcionalidade 1` `Biblioteca Extensa`: Disponibiliza uma vasta biblioteca de músicas de diferentes gêneros e artistas.
 - `Funcionalidade 2` `Alta Qualidade de Áudio`: Oferece streaming de alta qualidade para garantir que os usuários desfrutem de músicas com excelente qualidade de áudio.
 - `Funcionalidade 3` `Downloads Offline`: Permite que os usuários baixem músicas para ouvir offline em seus dispositivos, o que é especialmente útil para quando não há conexão com a internet disponível.
@@ -21,7 +23,7 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 - `Funcionalidade 6` `Letras e Informações das Músicas`: Fornece letras de músicas e informações detalhadas sobre artistas, álbuns e faixas.
 
 
-###Técnicas e tecnologias utilizadas✔️
+###Técnicas e tecnologias utilizadas
 
 - ``CSS3``
 - ``HTML 5``
