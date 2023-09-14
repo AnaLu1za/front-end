@@ -38,6 +38,6 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
   * [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
 
 ## Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Machado</sub>](https://github.com/AnaLu1za).| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712280?v=4" width=115><br><sub>Fellipe Gabriel Lucas Zanin</sub>](https://github.com/Fell1pe) || :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Machado</sub>](https://github.com/AnaLu1za).|[<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712280?v=4" width=115><br><sub>Fellipe Gabriel Lucas Zanin</sub>](https://github.com/Fell1pe) | :---: | :---: | :---: |
 
   
