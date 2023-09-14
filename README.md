@@ -6,8 +6,8 @@ Projeto inicial pronto pego no site myTunes com o objetivo de realizar algumas a
 
 # Índice 
 * [Descrição](#Descrição-do-projeto)
-* [Funcionalidades](#Funcionalidades-do-projeto)
-* [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
+* [Funcionalidades](#Funcionalidades-do-projeto-:hammer:)
+* [Técnicas e tecnologias utilizadas](#✔️-Técnicas-e-tecnologias-utilizadas)
 
 ## Descrição do projeto 
 O site é um serviço de streaming pago que dá acesso a milhões de músicas sem anúncios. É possível ouvir músicas offline e baixar suas músicas favoritas com uma excelente qualidade de som. 
