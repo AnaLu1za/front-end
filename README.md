@@ -19,9 +19,10 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Css``
-- ``Html 5``
+- ``CSS3``
+- ``HTML 5``
 - ``Chat GPT``
+- ``Github``
 
   ## Material de referência
   * [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
