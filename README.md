@@ -36,6 +36,9 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 * [Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
   ## Material de referência
   * [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
+
+## Autores
+| [<img loading="lazy" src="https://github.com/account" width=115><br><sub>Ana Luiza Machado</sub>]
     
 
   
