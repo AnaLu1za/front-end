@@ -29,13 +29,15 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 - ``HTML 5``
 - ``Github``
 - ``VsCode``
+- ``Git``
 
 ## Fontes Consultadas 
-* ChatGPT
+* [ChatGPT](https://chat.openai.com/)
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
-  ## Material de referência
-  * [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
+
+## Material de referência
+* [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
 
 ## Autores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712280?v=4" width=115><br><sub>Fellipe Gabriel Zanin</sub>](https://github.com/Fell1pe) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Santos</sub>](https://github.com/AnaLu1za) |  
