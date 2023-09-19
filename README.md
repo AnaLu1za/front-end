@@ -9,7 +9,7 @@ Projeto inicial pronto pego no site myTunes com o objetivo de realizar algumas a
 * [Funcionalidades](#Funcionalidades-do-projeto)
 * [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
 * [Fontes Consultadas](#Fontes-Consultadas)
-* [Material de Referência](#Material-de-referência)
+* [Material Inicial](#Material-Inicial)
 
 ## Descrição do projeto 
 O site é um serviço de streaming pago que dá acesso a milhões de músicas sem anúncios. É possível ouvir músicas offline e baixar suas músicas favoritas com uma excelente qualidade de som. 
@@ -36,7 +36,7 @@ O site é um serviço de streaming pago que dá acesso a milhões de músicas se
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
 * [Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
-## Material de referência
+## Material Inicial
 * [Clique aqui](https://jolly-kalam-23776e.netlify.app/mytunes/)
 
 ## Autores
